@@ -8,3 +8,5 @@ First project on Github
 [Add two numbers](https://github.com/subhadip2004999/Basic-C-language/blob/main/hhh.c)
 <br>
 [Check Palindrome](https://github.com/subhadip2004999/Basic-C-language/blob/main/one.c)
+<br>
+[Fabonicci Series](https://github.com/subhadip2004999/Basic-C-language/blob/main/wat.c)
