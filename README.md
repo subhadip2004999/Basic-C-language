@@ -6,3 +6,5 @@ First project on Github
 [Count the number of digits](https://github.com/subhadip2004999/Basic-C-language/blob/main/dig.c)
 <br>
 [Add two numbers](https://github.com/subhadip2004999/Basic-C-language/blob/main/hhh.c)
+<br>
+[Check Palindrome](https://github.com/subhadip2004999/Basic-C-language/blob/main/one.c)
