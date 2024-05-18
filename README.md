@@ -1,2 +1,3 @@
-# subhadip
-i am power
+# Basic Codings in C
+First project on Github
+
